@@ -1,3 +1,5 @@
+#The main class of the application that will run
+
 from Ticket import Ticket
 from TicketStats import TicketStats
 
