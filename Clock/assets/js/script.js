@@ -1,4 +1,5 @@
 
+//This is a Java Script code that is the main logic of the APP
 var horas = document.getElementById("horas");
 var minutos = document.getElementById("minutos");
 var segundos = document.getElementById("segundos");
