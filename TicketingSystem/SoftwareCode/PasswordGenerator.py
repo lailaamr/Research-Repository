@@ -1,3 +1,5 @@
+#Have the logic code that will generate a new password for the staff.
+
 from TicketStats import TicketStats
 
 class PasswordGenerator:
