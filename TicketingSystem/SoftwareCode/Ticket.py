@@ -1,3 +1,5 @@
+#The class that contains the attributes of the Ticket
+
 from PasswordGenerator import PasswordGenerator
 from TicketStats import TicketStats
 
